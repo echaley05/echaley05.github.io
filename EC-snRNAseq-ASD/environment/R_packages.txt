@@ -1,0 +1,27 @@
+# CRAN
+Seurat
+SeuratObject
+Matrix
+MASS
+dplyr
+tidyr
+ggplot2
+ggrepel
+data.table
+readxl
+pheatmap
+cluster
+# Bioconductor
+zellkonverter
+SingleCellExperiment
+scDblFinder
+DropletUtils
+MAST
+DESeq2
+edgeR
+apeglm
+clusterProfiler
+ReactomePA
+org.Hs.eg.db
+enrichplot
+# Exact versions: see sessionInfo*.txt written by each step

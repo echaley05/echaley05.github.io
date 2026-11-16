@@ -1,0 +1,10 @@
+# Python packages (conda environment "rnaseq"); pin versions from scvi_settings.txt / pip freeze
+scanpy
+anndata
+scvi-tools
+scikit-misc
+python-igraph
+leidenalg
+pandas
+numpy
+matplotlib
